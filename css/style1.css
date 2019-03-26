@@ -1,0 +1,29 @@
+body{
+  margin:0;
+  padding: 0;
+  background: url(src/pic/bg.jpg) no-repeat;
+  background-size: cover;
+}
+.dp{
+  margin-top: 100px;
+  width: 30%;
+  border-radius: 50px;
+}
+.kotak{
+  padding: 5px;
+  margin-top: 220px;
+  margin-left: 1200px;
+  background-color: rgba(0, 0, 0, 0.4);
+  height: 600px;
+  width: 500px;
+  border-radius: 10px;
+}
+.capt{
+  margin-top: 50px;
+  color: white;
+  width: auto;
+  height: auto;
+  border: 1px solid white;
+  padding: 10px;
+  border-radius: 10px;
+}
